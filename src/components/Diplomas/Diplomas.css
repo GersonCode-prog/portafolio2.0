@@ -1,0 +1,39 @@
+/* Diplomas.css */
+
+/* Estilos para la sección de diplomas */
+.diplomas-section {
+    padding: 50px 0;
+  }
+  
+  /* Estilos para cada diploma */
+  .diploma {
+    margin-bottom: 30px;
+  }
+  
+  /* Estilos para la imagen del diploma */
+  .diploma-image {
+    width: 100%; /* Hace que la imagen ocupe todo el ancho del contenedor */
+    height: auto; /* Ajusta automáticamente la altura para mantener la proporción */
+  }
+  
+  /* Estilos para la descripción del diploma */
+  .diploma-description {
+    padding: 20px;
+    background-color: #f8f9fa; /* Fondo gris claro */
+    border: 1px solid #dee2e6; /* Borde gris */
+    border-radius: 5px;
+  }
+  
+  /* Estilos para el título del diploma */
+  .diploma-title {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 24px; /* Aumenta el tamaño de la fuente del título */
+  }
+  
+  /* Estilos para el texto de la descripción del diploma */
+  .diploma-description p {
+    margin-bottom: 0;
+    font-size: 18px; /* Aumenta el tamaño de la fuente del texto de la descripción */
+  }
+  
