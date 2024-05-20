@@ -35,7 +35,7 @@ function Projects() {
               imgPath={funeraria}
               isBlog={false}
               title="FunerariaSanJose"
-              description="Una página web de funeraria es un espacio digital diseñado para ofrecer información y servicios relacionados con los arreglos funerarios y el duelo. Estas páginas suelen ser un recurso importante para las personas que están enfrentando la pérdida de un ser querido, así como para aquellos que desean planificar con anticipación sus propios arreglos funerarios."
+              description="Una página web de funeraria es un espacio digital diseñado para ofrecer información y servicios relacionados con los arreglos funerarios y el duelo. Esta página suele ser un recurso importante para las personas que están enfrentando la pérdida de un ser querido, así como para aquellos que desean planificar con anticipación sus propios arreglos funerarios."
               demoLink="https://funerariasanjose.netlify.app"
               ghLink="https://funerariasanjose.netlify.app"
             />

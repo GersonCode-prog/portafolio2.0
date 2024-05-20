@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://github.com/GersonCode-prog"
+                href="https://x.com/gersoncode?t=F2BEPIk5eGkQVVZfz8xe6g&s=09"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/gerson-enrique-batun-suriano-21b62b245/"
+                href="https://www.instagram.com/gersonsuriano77/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
